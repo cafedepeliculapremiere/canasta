@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c5cd1dce.css",
+    "main.js": "/static/js/main.41541fd1.js",
+    "static/js/787.8a7e0da5.chunk.js": "/static/js/787.8a7e0da5.chunk.js",
+    "static/media/png": "/static/media/f3b75e0a18d43e2ff6a01fefe6a451a5.ae492f5276d6b1f5c310.png",
+    "static/media/--joker-card-trump-card.jpg": "/static/media/f61e3d0639493e822776ab32c9322f49--joker-card-trump-card.f63e9a961f1a8eb75708.jpg",
+    "index.html": "/index.html",
+    "main.c5cd1dce.css.map": "/static/css/main.c5cd1dce.css.map",
+    "main.41541fd1.js.map": "/static/js/main.41541fd1.js.map",
+    "787.8a7e0da5.chunk.js.map": "/static/js/787.8a7e0da5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5cd1dce.css",
+    "static/js/main.41541fd1.js"
+  ]
+}
